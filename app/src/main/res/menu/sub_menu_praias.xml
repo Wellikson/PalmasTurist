@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <item android:title="Go Back"-->
+<!--        android:icon="@drawable/abc_vector_test"-->
+<!--        android:id="@+id/back_to_main"/>-->
+
+<!--    <item-->
+<!--        android:id="@+id/nav_praias"-->
+<!--        android:icon="@drawable/ic_menu_share"-->
+<!--        android:title="Praia do Cajú" />-->
+<!--    <item-->
+<!--        android:id="@+id/sub_item2"-->
+<!--        android:icon="@drawable/ic_menu_send"-->
+<!--        android:title="Praia do Prata" />-->
+</menu>

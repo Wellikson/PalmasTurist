@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item-->
+<!--        android:id="@+id/nav_home"-->
+<!--        android:icon="@drawable/home"-->
+<!--        android:title="@string/menu_home" />-->
+<!--    <item-->
+<!--        android:id="@+id/nav_praias"-->
+<!--        android:icon="@drawable/beach"-->
+<!--        android:title="@string/menu_praias" />-->
+<!--    <item-->
+<!--        android:id="@+id/nav_pracas_parques"-->
+<!--        android:icon="@drawable/park"-->
+<!--        android:title="@string/menu_pracas_parques" />-->
+</menu>

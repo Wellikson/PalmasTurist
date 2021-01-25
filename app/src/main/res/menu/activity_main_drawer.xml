@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/menu_home" />
+        <item
+            android:title="Praias">
+                <menu>
+                    <item
+                        android:title="Praia da Graciosa"
+                        android:icon="@drawable/beach"
+                        android:id="@+id/nav_praia_graciosa"/>
+                    <item
+                        android:id="@+id/nav_praia_caju"
+                        android:icon="@drawable/beach"
+                        android:title="@string/menu_praia_caju" />
+                    <item
+                        android:id="@+id/nav_praia_prata"
+                        android:icon="@drawable/beach"
+                        android:title="@string/menu_praia_prata" />
+                    <item
+                        android:id="@+id/nav_praia_arnos"
+                        android:icon="@drawable/beach"
+                        android:title="@string/menu_praia_arnos" />
+                    <item
+                        android:id="@+id/nav_praia_buriti"
+                        android:icon="@drawable/beach"
+                        android:title="@string/menu_praia_buriti" />
+                </menu>
+        </item>
+        <item
+            android:title="Praças e Parques">
+            <menu>
+                <item
+                    android:id="@+id/nav_girassois"
+                    android:icon="@drawable/park"
+                    android:title="@string/menu_praca_girassois" />
+                <item
+                    android:id="@+id/na_povos_indigenas"
+                    android:icon="@drawable/park"
+                    android:title="@string/menu_praca_povos_indigenas" />
+                <item
+                    android:title="@string/menu_parque_cezamar"
+                    android:icon="@drawable/park"
+                    android:id="@+id/nav_cezamar"/>
+            </menu>
+        </item>
+    </group>
+</menu>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Palmas Turist</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Palmas Turist</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Início</string>
+
+                          <!--    Praias-->
+    <string name="menu_praia_graciosa">Praia da Graciosa</string>
+    <string name="menu_praia_arnos">Praia da Arnos</string>
+    <string name="menu_praia_buriti">Praia do Buriti</string>
+    <string name="menu_praia_prata">Praça do Prata</string>
+    <string name="menu_praia_caju">Praça do Cajú</string>
+
+                        <!--    Paques e Praças-->
+    <string name="menu_praca_girassois">Praça dos Girassóis</string>
+    <string name="menu_praca_povos_indigenas">Parque dos Povos Indigenas</string>
+    <string name="menu_parque_cezamar">Parque Cezamar</string>
+
+    <string name="title_activity_maps">Map</string>
+</resources>

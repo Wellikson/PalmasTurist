@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="p1">  Palmas, a capital do Estado, é o portal de entrada para as regiões turísticas do Tocantins.
+        É moderna, planejada, com uma ampla estrutura de comércios e serviços, centro de convenções e shopping.
+        Ideal para o turismo de negócios e eventos.
+    </string>
+    <string name="p2">As áreas verdes da cidade, avenidas largas e arborizadas e praias permanentes são cenários
+        convidativos à prática esportiva ou simplesmente à contemplação visual. As praias Graciosa, do Prata e das
+        Arnos, às margens do Lago, são os principais cartões-postais da cidade.
+    </string>
+
+    <string name="girassois_p1">
+        Praça dos Girassóis: é uma das mais famosas da cidade. Ela é a maior praça da América Latina, além de ser
+        a segunda maior praça pública do mundo! Nela ficam localizados os prédios-sede dos três poderes estaduais
+        e monumentos como o Centro Geodésico do Brasil. Além disso a praça ainda conta com uma fonte luminosa e uma
+        variedade de árvores e plantas. Tem até exemplares do Pau Brasil!
+    </string>
+    <string name="girassois_p2">
+        Uma dica é fazer um passeio pela praça de bicicleta, pois o local tem uma estrutura própria
+        para quem deseja praticar esportes.
+    </string>
+    <string name="girassois_p3">
+        Completam a estrutura da Praça dos Girassóis dezenas de monumentos e obras de arte que
+        homenageiam o povo tocantinense e ajudam a contar a sua história.
+    </string>
+
+    <string name="graciosap1">
+        Palmas possui várias opções de praias, como a Praia Graciosa que é muito utilizada para realizar eventos
+        culturais, de lazer, esportivos e náuticos. A praia dispõe de uma extensa orla dotada de boa estrutura como
+        banheiros, quadras de esportes, parques infantis, área de camping, posto policial, marina com atracadouro,
+        além da oferta serviços de bares e restaurantes.
+    </string>
+</resources>
