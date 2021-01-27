@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<!--    Home-->
     <string name="p1">  Palmas, a capital do Estado, é o portal de entrada para as regiões turísticas do Tocantins.
         É moderna, planejada, com uma ampla estrutura de comércios e serviços, centro de convenções e shopping.
         Ideal para o turismo de negócios e eventos.
@@ -8,6 +9,8 @@
         convidativos à prática esportiva ou simplesmente à contemplação visual. As praias Graciosa, do Prata e das
         Arnos, às margens do Lago, são os principais cartões-postais da cidade.
     </string>
+
+<!--    Praças e Parques-->
 
     <string name="girassois_p1">
         Praça dos Girassóis: é uma das mais famosas da cidade. Ela é a maior praça da América Latina, além de ser
@@ -24,10 +27,77 @@
         homenageiam o povo tocantinense e ajudam a contar a sua história.
     </string>
 
+    <string name="cesamar_p1">
+        O Parque Cesamar é um dos principais destinos com área verde na capital palmense. O ponto
+        turístico serve como espaço de convívio, de passeios e de celebrações. O parque possui uma ampla
+        pista para caminhadas e corridas com 2.820 metros em meio à mata de cerrado. No local o visitante
+        encontra também pistas de skate e bicicross, academia ao ar livre, restaurante e um pedalinho no lago
+        da bacia do Córrego Brejo Comprido.
+    </string>
+    <string name="cesamar_p2">
+        Ideal para atividades físicas matinais e noturnas, o parque tem um horário de funcionamento ampliado,
+        das 5 da manhã às 23 horas, quando os portões são fechados. O Cesamar atinge uma área de 96.770 m² de reserva
+        biológica com vários animais para observar, como a capivara
+    </string>
+
+    <string name="indigenas_p1">
+        O Parque dos povos indígenas, que fica localizado na Avenida LO-04, esquina com a NS-04, região Norte da Capital,
+        foi criado e inaugurado recentemente como o primeiro parque linear do Tocantins e primeiro corredor ecológico da
+        região Norte, sendo a primeira etapa de implantação da maior floresta municipal do mundo.
+    </string>
+    <string name="indigenas_p2">
+        Com novo paisagismo e iluminação de LED o parque contém: pista profissional de skate com 600 quadrados; duas quadras de
+        areia para vôlei e futevôlei com arquibancada; duas quadras de areia para prática de peteca e badminton, playground;
+        academias ao ar livre; redário; quadra de areia com suporte para a prática de slackline; pista de caminhada; ciclovia.
+        Ainda contém uma estrutura de apoio como: banheiros, estacionamento; bicicletário e barracas de lanches e artesanatos variados.
+    </string>
+
+<!--    Praias-->
+
     <string name="graciosap1">
         Palmas possui várias opções de praias, como a Praia Graciosa que é muito utilizada para realizar eventos
         culturais, de lazer, esportivos e náuticos. A praia dispõe de uma extensa orla dotada de boa estrutura como
         banheiros, quadras de esportes, parques infantis, área de camping, posto policial, marina com atracadouro,
         além da oferta serviços de bares e restaurantes.
+    </string>
+
+    <string name="arnos_p1">
+        Principal ponto turístico da região Norte de Palmas, Praia das Arnos oferece lazer, gastronomia e refúgio em um só lugar
+    </string>
+    <string name="arnos_p2">
+        Água rasa e quiosques, quase dentro d’água, dão um incentivo a mais para quem quer curtir uma praia, que durante a
+        semana é tranquila e garante ao visitante momentos de contato direto com o cenário exuberante, que a natureza proporciona.
+    </string>
+
+    <string name="buriti_p1">
+        Um belo lugar para passar horas aproveitando o que Palmas tem de melhor a oferecer. A Praia dos Buritis, localizada há 23,2 km
+        do Palácio Araguaia, se transformou em um importante refúgio para o palmense e também para os turistas da Capital.
+    </string>
+    <string name="buriti_p2">
+        Além da estrutura física para receber as pessoas, que conta até com um píer, a Praia dos Buritis oferece um cenário natural
+        inigualável e o pôr do sol dá um grande espetáculo todos os dias entre os pés de Buriti, que surgem de dentro do lago para
+        completar, o que parece mais uma obra de arte, mas esta é feita pela natureza.
+    </string>
+
+    <string name="caju_p1">
+        A Praia do Cajú foi recentemente aberta ao público .Ela fica mais afastada do centro de Palmas,
+        tranquila, sem gritaria e muvuca .Conta com 6 quiosques que vendem bebidas , drinks e petiscos.
+        Além disso ,todos tem banheiro ,tudo novinho e limpo.
+    </string>
+    <string name="caju_p2">
+        Talvez sejapor isso que quem mora na capital tocantinense goste tanto de visitala.
+    </string>
+
+    <string name="prata_p1">
+        Praia do Prata é parada obrigatória para quem quer aproveitar um ambiente familiar às margens do
+        lago e se deliciar com a boa gastronomia tocantinense. A Praia, que recebe turistas e visitantes
+        desde julho de 2003, é a mais frequentada da cidade, principalmente nos finais de semana, e está
+        localizada a nove quilômetros da Praça dos Girassóis.
+    </string>
+    <string name="prata_p2">
+        Sua infraestrutura dispõe de estacionamento, banheiros, telefones, quadra para a prática de esportes,
+        área para acampamento, serviços de restaurantes e bares e barracas de palha distribuídas na orla do lago,
+        que protegem os visitantes do calor do sol. O local também é muito utilizado como ponto de realização de e
+        ventos culturais e esportivos de médio porte, sendo uma ótima opção de descontração e lazer.
     </string>
 </resources>

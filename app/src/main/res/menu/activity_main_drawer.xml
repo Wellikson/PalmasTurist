@@ -41,13 +41,13 @@
                     android:icon="@drawable/park"
                     android:title="@string/menu_praca_girassois" />
                 <item
-                    android:id="@+id/na_povos_indigenas"
+                    android:id="@+id/nav_povos_indigenas"
                     android:icon="@drawable/park"
                     android:title="@string/menu_praca_povos_indigenas" />
                 <item
                     android:title="@string/menu_parque_cezamar"
                     android:icon="@drawable/park"
-                    android:id="@+id/nav_cezamar"/>
+                    android:id="@+id/nav_cesamar"/>
             </menu>
         </item>
     </group>

@@ -11,15 +11,47 @@
         android:label="@string/menu_home"
         tools:layout="@layout/fragment_home" />
 
+<!--    PRAIAS-->
     <fragment
         android:id="@+id/nav_praia_graciosa"
         android:name="com.example.palmasturist.ui.praiaDaGraciosa.PraiadaGraciosaFragment"
         android:label="@string/menu_praia_graciosa"
         tools:layout="@layout/fragment_praia_graciosa" />
+    <fragment
+        android:id="@+id/nav_praia_arnos"
+        android:name="com.example.palmasturist.ui.praiaDasArnos.PraiaArnosFragment"
+        android:label="@string/menu_praia_arnos"
+        tools:layout="@layout/fragment_praia_arnos" />
+    <fragment
+        android:id="@+id/nav_praia_buriti"
+        android:name="com.example.palmasturist.ui.praiaDoBuriti.PraiaBuritiFragment"
+        android:label="@string/menu_praia_buriti"
+        tools:layout="@layout/fragment_praia_buriti" />
+    <fragment
+        android:id="@+id/nav_praia_caju"
+        android:name="com.example.palmasturist.ui.praiaDoCaju.PraiaCajuFragment"
+        android:label="@string/menu_praia_caju"
+        tools:layout="@layout/fragment_praia_caju" />
+    <fragment
+        android:id="@+id/nav_praia_prata"
+        android:name="com.example.palmasturist.ui.praiaDoPrata.PraiaPrataFragment"
+        android:label="@string/menu_praia_prata"
+        tools:layout="@layout/fragment_praia_prata" />
 
+<!--    Parques e Praças-->
     <fragment
         android:id="@+id/nav_girassois"
         android:name="com.example.palmasturist.ui.pracaDosGirassois.PracaDosGirassoisFragment"
         android:label="@string/menu_praca_girassois"
         tools:layout="@layout/fragment_praca_girassois" />
+    <fragment
+        android:id="@+id/nav_cesamar"
+        android:name="com.example.palmasturist.ui.parqueCesamar.CesamarFragment"
+        android:label="@string/menu_parque_cezamar"
+        tools:layout="@layout/fragment_cesamar" />
+    <fragment
+        android:id="@+id/nav_povos_indigenas"
+        android:name="com.example.palmasturist.ui.parqueDosPovosIndigenas.PovosIndigenasFragment"
+        android:label="@string/menu_praca_povos_indigenas"
+        tools:layout="@layout/fragment_povos_indigenas" />
 </navigation>
